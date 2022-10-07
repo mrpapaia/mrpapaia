@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   Meu nome é Diogo José.
-  Graduado em Sistemas de Informação pelo Instituto Federal Goiano - Campus Urutaí<br>
+  Graduado em Sistemas de Informação pelo Instituto Federal Goiano - Campus Urutaí.<br>
 </p>
 
 ## 💻 Linguagens de programação
